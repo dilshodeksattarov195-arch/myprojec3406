@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvtringify",
+        "uuid": 14472094,
+        "checksum": "xjlrt5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
